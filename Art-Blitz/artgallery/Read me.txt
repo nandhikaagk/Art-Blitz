@@ -1,4 +1,6 @@
-How to run the Online Shoppinh Portal using PHP and MySQL
+This is online art gallery website....
+This is an e-commerce website where we can able to buy arts through online....
+
 1. Download the  zip file
 
 2. Extract the file and copy shopping folder
@@ -11,14 +13,9 @@ How to run the Online Shoppinh Portal using PHP and MySQL
 
 6. Import shopping file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/shopping (frontend)
+7.Run the script http://localhost/Projects/Art-Blitz/artgallery/artgallery/ (frontend)
 
-8. Link for admin Panel : http://localhost/shopping/admin
-
-Login Details For User :
-
-Username : anuj.lpu1@gmail.com
-Password : Test@123
+8. Link for admin Panel :http://localhost/Projects/Art-Blitz/artgallery/artgallery/admin
 
 For Admin :
 User Name : admin
